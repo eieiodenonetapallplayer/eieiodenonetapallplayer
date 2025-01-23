@@ -12,7 +12,8 @@ https://moe-counter.glitch.me/get/@4levy?theme=gelbooru
 
 # Github
 ![](https://camo.githubusercontent.com/ac9d2ed33dd40ad1d3dae0f8f7a74250203c48fe8d8fff54d33a5c5c41d0e08a/68747470733a2f2f692e6962622e636f2f516348485334482f446973636f72642e706e67)<br/>
-![](https://moe-counter.glitch.me/get/@4levy?theme=gelbooru)<br/>
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://moe-counter.glitch.me/get/@4levy?theme=gelbooru' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 
 
 ### 🔝 Top Contributed Repo

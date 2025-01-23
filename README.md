@@ -1,4 +1,4 @@
-<p align="left">class 4levy:<br><br>    def __init__(self):<br>        self.age = 16<br><br>    def __info__(self):<br>        self.bio = 'https://www.coeyeternal.site/'<br>            Just a normal Discord bot developer<br>        '''<br><br>    def __social__(self):<br>        socials = {<br>            "Website": "https://www.coeyeternal.site/",<br>            "Instagram": "https://www.instagram.com/eieioden/",<br>            "Facebook": "https://www.facebook.com/benedict.diamondonsnow/",<br>            "X (formerly Twitter)": "https://x.com/eieioden",<br>            "Discord": ("coeystepthep", 1061613918641995796)</p>
+# Hi I'm Jhon, fullstark developer
 
 ###
  

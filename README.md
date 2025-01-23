@@ -1,18 +1,39 @@
-# 💫 About Me:
-Hi i'm John 
+<p align="left">class 4levy:<br><br>    def __init__(self):<br>        self.age = 16<br><br>    def __info__(self):<br>        self.bio = 'https://www.coeyeternal.site/'<br>            Just a normal Discord bot developer<br>        '''<br><br>    def __social__(self):<br>        socials = {<br>            "Website": "https://www.coeyeternal.site/",<br>            "Instagram": "https://www.instagram.com/eieioden/",<br>            "Facebook": "https://www.facebook.com/benedict.diamondonsnow/",<br>            "X (formerly Twitter)": "https://x.com/eieioden",<br>            "Discord": ("coeystepthep", 1061613918641995796)</p>
 
-https://moe-counter.glitch.me/get/@4levy?theme=gelbooru
+###
 
+<div align="center">
+  <img height="400" src="https://i.pinimg.com/originals/b3/2f/da/b32fdacfe1a171649856488c7a617fa3.gif"  />
+</div>
 
+###
 
+<div align="center">
+  <img height="150" src="https://moe-counter.glitch.me/get/@4levy?theme=gelbooru"  />
+</div>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+###
 
+<h3 align="center">📊 | GitHub Stats:</h3>
 
-# Github
-![](https://camo.githubusercontent.com/ac9d2ed33dd40ad1d3dae0f8f7a74250203c48fe8d8fff54d33a5c5c41d0e08a/68747470733a2f2f692e6962622e636f2f516348485334482f446973636f72642e706e67)<br/>
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='256' style='border:0px;height:200px;' src='https://moe-counter.glitch.me/get/@4levy?theme=gelbooru' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eieiodenonetapallplayer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eieiodenonetapallplayer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/eieiodenonetapallplayer/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/eieiodenonetapallplayer/eieiodenonetapallplayer/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 

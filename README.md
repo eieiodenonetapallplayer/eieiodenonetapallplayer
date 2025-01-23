@@ -1,37 +1,28 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Coey+Muniz!;" />
 
- ```class 4levy:
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ช่องข้อความ</title>
+</head>
+<body>
+    <textarea id="message" rows="4" cols="50"></textarea>
+    <button onclick="sendMessage()">ส่ง</button>
+    <div id="messages"></div>
 
-    def __init__(self):
-        self.age = 16
-
-    def __info__(self):
-        self.bio = '''
-            Just a normal Discord bot developer
-        '''
-
-    def __social__(self):
-        socials = {
-            "Website": "4levy.xyz",
-            "Instagram": "https://www.instagram.com/4levyz/",
-            "Facebook": "https://www.facebook.com/4levy/",
-            "X (formerly Twitter)": "https://x.com/4levyz",
-            "Discord": ("4levy", 874898422233178142)
+    <script>
+        function sendMessage() {
+            const message = document.getElementById('message').value;
+            const messagesDiv = document.getElementById('messages');
+            messagesDiv.innerHTML += `<div>${message}</div>`;
+            // ที่นี่คุณสามารถส่งข้อมูลไปยัง Back-end ได้
         }
+    </script>
+</body>
+</html>
 
-    def __dev__(self):
-        skills = {
-            "Html": "Know",
-            "Css": "Know",
-            "Python": "Know",
-            "Node.js": "Know",
-            "C++": "Learning... 🔧",
-            "PHP": "Learning... 🔧"
-            "Vue": "Learning... 🔧"
-        }
 
- ```
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">

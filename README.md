@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://moe-counter.glitch.me/get/@4levy?theme=gelbooru"  />
+  <img height="150" src="https://i.postimg.cc/wjfm6ydW/image.png"  />
 </div>
 
 ###

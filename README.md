@@ -11,10 +11,8 @@ https://moe-counter.glitch.me/get/@4levy?theme=gelbooru
 
 
 
-
-# 📊 GitHub Stats:
 ![](https://moe-counter.glitch.me/get/@4levy?theme=gelbooru)<br/>
-![](https://discord.gg/arKAawwkDa)<br/>
+![]()<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eieiodenonetapallplayer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 

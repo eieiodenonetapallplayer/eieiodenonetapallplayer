@@ -13,7 +13,6 @@ https://moe-counter.glitch.me/get/@4levy?theme=gelbooru
 # Github
 ![](https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif)<br/>
 ![](https://moe-counter.glitch.me/get/@4levy?theme=gelbooru)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eieiodenonetapallplayer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### 🔝 Top Contributed Repo

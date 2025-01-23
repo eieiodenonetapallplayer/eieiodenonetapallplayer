@@ -4,13 +4,10 @@
     
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+* 🌍  I'm based in Thailand
+* 🖥️  See my portfolio at [Bio.me](http://www.coeyeternal.site/)
+* ✉️  You can contact me at [discord](mailto:discord)
+* 🚀  I'm currently working on [goodplace.store](http://goodplace.rexzy.xyz/)
 
  </div>
 
@@ -85,7 +82,7 @@
   <br/><br/><br/>
 </div>
 
-<a href="https://github.com/eieiodenonetapallplayer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eieiodenonetapallplayer&langs_count=10&title_color=6366f1&text_color=22c55e&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 <br/>
 

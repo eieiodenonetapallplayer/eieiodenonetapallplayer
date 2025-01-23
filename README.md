@@ -1,26 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Coey+Muniz!;" />
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>ช่องข้อความ</title>
-</head>
-<body>
-    <textarea id="message" rows="4" cols="50"></textarea>
-    <button onclick="sendMessage()">ส่ง</button>
-    <div id="messages"></div>
 
-    <script>
-        function sendMessage() {
-            const message = document.getElementById('message').value;
-            const messagesDiv = document.getElementById('messages');
-            messagesDiv.innerHTML += `<div>${message}</div>`;
-            // ที่นี่คุณสามารถส่งข้อมูลไปยัง Back-end ได้
-        }
-    </script>
-</body>
-</html>
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>

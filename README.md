@@ -31,8 +31,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/eieiodenonetapallplayer/eieiodenonetapallplayer/output/snake.svg" alt="Snake animation" />
-
 ###
 
 

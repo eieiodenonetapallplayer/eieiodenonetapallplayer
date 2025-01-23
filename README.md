@@ -1,6 +1,19 @@
 <p align="left">class 4levy:<br><br>    def __init__(self):<br>        self.age = 16<br><br>    def __info__(self):<br>        self.bio = 'https://www.coeyeternal.site/'<br>            Just a normal Discord bot developer<br>        '''<br><br>    def __social__(self):<br>        socials = {<br>            "Website": "https://www.coeyeternal.site/",<br>            "Instagram": "https://www.instagram.com/eieioden/",<br>            "Facebook": "https://www.facebook.com/benedict.diamondonsnow/",<br>            "X (formerly Twitter)": "https://x.com/eieioden",<br>            "Discord": ("coeystepthep", 1061613918641995796)</p>
 
 ###
+ 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
 
 <div align="center">
   <img height="400" src="https://i.pinimg.com/originals/b3/2f/da/b32fdacfe1a171649856488c7a617fa3.gif"  />

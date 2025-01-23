@@ -12,7 +12,9 @@ src="https://img.shields.io/github/followers/eieiodenonetapallplayer?logo=github
 src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-badge&color=ec4899&labelColor=22272e"
 /></a>
 
-<img src="https://raw.githubusercontent.com/eieiodenonetapallplayer/eieiodenonetapallplayer/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="70" src="https://i.postimg.cc/qMDWVr78/IMG-2292.gif"  />
+</div>
 
 ###
 ###

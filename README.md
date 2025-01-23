@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Coey+Muniz!;" />
 
     
-
- 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [Bio.me](http://www.coeyeternal.site/)
 * ✉️  You can contact me at [discord](mailto:discord)

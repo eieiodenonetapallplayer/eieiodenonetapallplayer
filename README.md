@@ -38,7 +38,7 @@
 
 ###
 
-## 🏆 <h4 align="center"GitHub Trophies</h4>
+## 🏆 <h3 align="center"GitHub Trophies</h3>
 ![](https://github-profile-trophy.vercel.app/?username=eieiodenonetapallplayer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <br>
 <div align=center>

@@ -77,7 +77,7 @@ src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-b
 
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/b3/2f/da/b32fdacfe1a171649856488c7a617fa3.gif"  />
+  <img height="150" src="https://i.postimg.cc/brPXV93d/image.png"  />
 </div>
 
 ###

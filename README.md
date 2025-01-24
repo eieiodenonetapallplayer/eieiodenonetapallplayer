@@ -7,9 +7,7 @@
 ✉️  You can contact me at [discord](mailto:discord)
 🚀  I'm currently working on [goodplace.store](http://goodplace.rexzy.xyz/)
 
-<div align="center">
-  <img height="300" src="https://img2.pic.in.th/pic/image2205a3a6536a6e34.png"  />
-</div>
+
   
 <div align="center">
   <img height="70" src="https://i.postimg.cc/qMDWVr78/IMG-2292.gif"  />
@@ -150,6 +148,8 @@ src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-b
 
 <br/>
 
-
+<div align="center">
+  <img height="300" src="https://img2.pic.in.th/pic/image2205a3a6536a6e34.png"  />
+</div>
 
 

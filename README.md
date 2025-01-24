@@ -1,6 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Coey+Muniz!;" />
 
+<div align="center">
+  <img height="500" src="https://img5.pic.in.th/file/secure-sv1/Untitled76_20240910203308-1.png"  />
+</div>
 
 🌍  I'm based in Thailand
 🖥️  See my portfolio at [Bio.me](http://www.coeyeternal.site/)
@@ -148,8 +151,6 @@ src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-b
 
 <br/>
 
-<div align="center">
-  <img height="300" src="https://img5.pic.in.th/file/secure-sv1/Untitled76_20240910203308-1.png"  />
-</div>
+
 
 

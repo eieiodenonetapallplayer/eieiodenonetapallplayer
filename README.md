@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Coey+Muniz!;" />
 
 <div align="center">
-  <img height="500" src="https://img5.pic.in.th/file/secure-sv1/Untitled76_20240910203308-1.png"  />
+  <img height="400" src="https://img5.pic.in.th/file/secure-sv1/Untitled76_20240910203308-1.png"  />
 </div>
 
 🌍  I'm based in Thailand

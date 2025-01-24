@@ -121,16 +121,12 @@ src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-b
     <img src="https://github-contributor-stats.vercel.app/api?username=eieiodenonetapallplayer&limit=5&theme=dark&combine_all_yearly_contributions=true"  />
 </div>
 
+###
+
+###
 <div align="center">
   <img src="https://profile-counter.glitch.me/eieiodenonetapallplayer/count.svg?"  />
 </div>
-
-
-
-###
-
-###
-
 
 ###
 <div align="center">

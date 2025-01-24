@@ -1,11 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Coey+Muniz!;" />
-
-    
+###    
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [Bio.me](http://www.coeyeternal.site/)
 * ✉️  You can contact me at [discord](mailto:discord)
 * 🚀  I'm currently working on [goodplace.store](http://goodplace.rexzy.xyz/)
+###
 
 <a href="https://www.github.com/eieiodenonetapallplayer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/eieiodenonetapallplayer?logo=github&style=for-the-badge&color=ec4899&labelColor=22272e" /></a><a href="https://www.x.com/eieioden" target="_blank" rel="noreferrer"><img

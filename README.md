@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Coey+Muniz!;" />
 
 <div align="center">
-  <img height="200" src="https://sv1.img.in.th/ijj5k8.png"  />
+  <img height="400" src="[https://sv1.img.in.th/ijj5k8.png](https://img2.pic.in.th/pic/image2205a3a6536a6e34.png)"  />
 </div>
 
 

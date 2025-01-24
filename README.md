@@ -99,7 +99,7 @@ src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-b
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eieiodenonetapallplayer&show_icons=true&locale=en" alt="eieiodenonetapallplayer"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eieiodenonetapallplayer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eieiodenonetapallplayer&show_icons=true&locale=en&layout=compact" alt="eieiodenonetapallplayer"  />
 </div>
 

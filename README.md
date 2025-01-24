@@ -149,7 +149,7 @@ src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-b
 <br/>
 
 <div align="center">
-  <img height="300" src="https://img2.pic.in.th/pic/image2205a3a6536a6e34.png"  />
+  <img height="300" src="https://img2.pic.in.th/pic/Untitled76_20240910203308.png"  />
 </div>
 
 

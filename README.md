@@ -115,7 +115,7 @@ src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-b
   <br/>
 </div>
 
-<hr/>
+
 <div align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=eieiodenonetapallplayer&limit=5&theme=dark&combine_all_yearly_contributions=true"  />
 </div>

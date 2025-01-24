@@ -1,6 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Coey+Muniz!;" />
 
+<div align="center">
+  <img height="400" src="https://i.postimg.cc/jqwMz0X5/image.png"  />
+</div>
+
+###
 
 🌍  I'm based in Thailand
 🖥️  See my portfolio at [Bio.me](http://www.coeyeternal.site/)

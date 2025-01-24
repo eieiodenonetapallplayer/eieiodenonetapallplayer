@@ -8,10 +8,10 @@ src="https://img.shields.io/github/followers/eieiodenonetapallplayer?logo=github
 src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-badge&color=ec4899&labelColor=22272e"
 /></a>
 
-* 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [Bio.me](http://www.coeyeternal.site/)
-* ✉️  You can contact me at [discord](mailto:discord)
-* 🚀  I'm currently working on [goodplace.store](http://goodplace.rexzy.xyz/)
+🌍  I'm based in Thailand
+🖥️  See my portfolio at [Bio.me](http://www.coeyeternal.site/)
+✉️  You can contact me at [discord](mailto:discord)
+🚀  I'm currently working on [goodplace.store](http://goodplace.rexzy.xyz/)
   
 <div align="center">
   <img height="70" src="https://i.postimg.cc/qMDWVr78/IMG-2292.gif"  />

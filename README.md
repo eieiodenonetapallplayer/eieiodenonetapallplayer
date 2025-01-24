@@ -152,4 +152,7 @@ src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-b
   <img height="300" src="https://img2.pic.in.th/pic/Untitled76_20240910203308.png"  />
 </div>
 
-
+<div align="center">
+  <img src="https://img2.pic.in.th/pic/Untitled76_20240910203308.png"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eieiodenonetapallplayer&show_icons=true&locale=en&layout=compact" alt="eieiodenonetapallplayer"  />
+</div>

@@ -104,8 +104,10 @@ src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-b
 </div>
 ###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=eieiodenonetapallplayer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=eieiodenonetapallplayer&limit=5&theme=dark&combine_all_yearly_contributions=true"  />
+</div>
+
 
 ![](https://github-profile-trophy.vercel.app/?username=eieiodenonetapallplayer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <br>

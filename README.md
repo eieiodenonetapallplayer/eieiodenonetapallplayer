@@ -156,7 +156,7 @@ src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-b
 
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; text-align: center;">
 
   <!-- รูปภาพ -->
   <img height="150" style="border-radius: 10px;" src="https://i.postimg.cc/wjfm6ydW/image.png" />
@@ -167,6 +167,7 @@ src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-b
   </a>
 
 </div>
+
 
 
 

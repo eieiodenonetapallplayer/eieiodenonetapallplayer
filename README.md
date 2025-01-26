@@ -161,4 +161,18 @@ src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-b
 
 
 
+<div align="center">
+  <table>
+    <tr>
+      <td style="text-align: center;">
+        <img height="150" style="border-radius: 10px;" src="https://i.postimg.cc/wjfm6ydW/image.png" />
+      </td>
+      <td style="text-align: center;">
+        <a href="https://discord.com/users/1061613918641995796">
+          <img height="150" style="border-radius: 10px;" src="https://lanyard-profile-readme.vercel.app/api/1061613918641995796?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 

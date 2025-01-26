@@ -156,6 +156,15 @@ src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-b
 
 </div>
 
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+
+  <img height="150" src="https://i.postimg.cc/wjfm6ydW/image.png" />
+
+  <a href="https://discord.com/users/1061613918641995796">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1061613918641995796?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
+  </a>
+
+</div>
 
 
 

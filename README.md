@@ -1,14 +1,18 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Coey+Muniz!;" />
+</h1>
 
 <div align="center">
-  <img height="300" src="https://img5.pic.in.th/file/secure-sv1/Untitled76_20240910203308-1.png"  />
+    <img height="200" src="https://img5.pic.in.th/file/secure-sv1/Untitled76_20240910203308-1.png" />
 </div>
 
-🌍  I'm based in Thailand
-🖥️  See my portfolio at [Bio.me](http://www.coeyeternal.site/)
-✉️  You can contact me at [discord](mailto:discord)
-🚀  I'm currently working on [goodplace.store](http://goodplace.rexzy.xyz/)
+<p align="center">
+    🌍 I'm based in Thailand<br>
+    🖥️ See my portfolio at <a href="http://www.coeyeternal.site/" target="_blank">Bio.me</a><br>
+    ✉️ You can contact me at <a href="mailto:discord">Discord</a><br>
+    🚀 Currently working on <a href="http://goodplace.rexzy.xyz/" target="_blank">goodplace.store</a>
+</p>
+
 
 
   

@@ -170,6 +170,6 @@
 
 <br/>
 
-
+data-canonical-src="https://img.shields.io/discord/1237731291353317456?color=7289DA&logo=discord&logoColor=white"
 
 

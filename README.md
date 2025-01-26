@@ -152,5 +152,5 @@ src="https://img.shields.io/twitter/follow/eieioden?logo=twitter&style=for-the-b
 <br/>
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:1061613918641995796)](https://discord.com/users/:1061613918641995796)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:1061613918641995796)
 
